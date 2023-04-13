@@ -9,7 +9,7 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: lauraplaza-babel-azure-ttt
+  DOCKER_IMAGE_NAME: lauraplaza-babel-azure-ttt 
   AZURE_WEBAPP_NAME: lauraplaza-babel-ttt-app
   ###############################################
 
